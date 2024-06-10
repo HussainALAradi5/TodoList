@@ -1,0 +1,49 @@
+.todo {
+  font-family: monospace;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 2rem;
+
+}
+h1 {
+  text-decoration: underline;
+  font-family: cursive;
+}
+ol {
+  list-style-type: none;
+}
+li {
+  border: 0.1rem solid gray;
+  border-radius: 3rem;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: rgb(125, 137, 238);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+button {
+  margin-left: 2rem;
+background-color: lightgreen;
+}
+button,
+input {
+  padding: 1rem;
+  font-size: 2rem;
+  
+}
+input:hover,
+button:hover {
+  background-color: green;
+  color: white;
+  transition: 1.5s;
+  border-radius: 3rem;
+  opacity: 0.6;
+  font-family: cursive;
+}
+.add:hover {
+  background-color: blue;
+}
+.delete:hover {
+  background-color: red;
+}
