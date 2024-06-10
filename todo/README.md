@@ -1,8 +1,60 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Date: 10/6/2024
 
-Currently, two official plugins are available:
+### By: Hussain Al Aradi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### [Gmail](hussainAlAradi.ha@gmail.com) | [GitHub](https://github.com/HussainALAradi5) | [LinkedIn](https://www.linkedin.com/in/hussainalaradi/)
+
+---
+
+### **_Description_**
+
+#### this project is just small frontEnd project to improve my skills in the frontEnd and espically React library 
+
+---
+
+### **_Technologies Used_**
+
+- JS( as its the languge that i use here)
+-React(library )
+-CSS
+-HTML
+
+---
+
+### **_Getting Started_**
+
+##### just play the game and enjoy it
+
+---
+
+### **_Screenshots_**
+
+##### image header 1
+
+![intro](./public/todo.png)
+
+##### image header 2
+
+## ![videos:](./public/example.gif)
+
+
+
+### **_Future Updates_**
+
+- [x] add task
+- [x] remove task
+- [x] Re-allocate tasks
+- [] enhancing the visuals
+---
+
+### **_Credits_**
+
+##### my instructors (for give me the idea  to improve my skills)
+
+##### 
+
+##### google for photos
+
+---
