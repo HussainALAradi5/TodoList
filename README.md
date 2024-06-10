@@ -33,11 +33,11 @@
 
 ##### image header 1
 
-![intro](./public/todo.png)
+![intro](./todo/public/todo.png)
 
 ##### image header 2
 
-## ![videos:](./public/example.gif)
+## ![videos:](./todo/public/example.gif)
 
 
 
