@@ -46,7 +46,7 @@
 - [x] add task
 - [x] remove task
 - [x] Re-allocate tasks
-- [] enhancing the visuals
+- [ ] enhancing the visuals
 ---
 
 ### **_Credits_**
