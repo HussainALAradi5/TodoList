@@ -1,13 +1,17 @@
+body {
+  background-color: #1d2025;
+}
 .todo {
   font-family: monospace;
   text-align: center;
   margin-top: 100px;
   font-size: 2rem;
-
 }
 h1 {
   text-decoration: underline;
   font-family: cursive;
+  opacity: 0.6;
+  color: white;
 }
 ol {
   list-style-type: none;
@@ -22,17 +26,18 @@ li {
   justify-content: flex-start;
   align-items: center;
 }
+
 button {
   margin-left: 2rem;
-background-color: lightgreen;
+  background-color: lightgreen;
+  cursor: pointer;
 }
 button,
 input {
   padding: 1rem;
   font-size: 2rem;
-  
 }
-input:hover,
+input:focus,
 button:hover {
   background-color: green;
   color: white;
