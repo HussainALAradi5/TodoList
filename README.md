@@ -20,7 +20,7 @@
 -React(library )
 -CSS
 -HTML
-
+-Vite for initilizing the React
 ---
 
 ### **_Getting Started_**
