@@ -25,7 +25,11 @@
 
 ### **_Getting Started_**
 
-##### just play the game and enjoy it
+### steps:
+#### 1) run this command "cd todo"
+#### 2) run "npm i" to install the node_modules to be able to run this nice todo-list
+#### 3)run "npm run dev"
+#### 4)just play the game and enjoy it 😋
 
 ---
 
